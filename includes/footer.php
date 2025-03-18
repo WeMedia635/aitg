@@ -59,7 +59,7 @@
               <ul>
                 <li><a href="index.html">Home</a></li>
                 <li><a href="#">Documentation</a></li>
-                <li><a href="contact.html">Contact 1</a></li>
+                <li><a href="contact.html">Contact </a></li>
               </ul>
             </div>
           </div>

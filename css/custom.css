@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Trebuchet MS';
+    src: url(../fonts/trebuchet-ms-2/trebuc.woff)format('woff');
+    font-weight: normal;
+}
+.contact-info-header{
+    margin: 26px 0 0 ;
+}

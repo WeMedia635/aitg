@@ -6,7 +6,7 @@
   <div class="item home-slider-bg" style="background-image: url('images/bg/slider-1.jpg')">
 
     <div class="slider-dtl top-effect">
-      <h1 class="slider-heading">Building Up <span>Vision,</span> Leading Future</h1>
+      <h1 class="slider-heading">Building Up 56 <span>Vision,</span> Leading Future</h1>
       <h5 class="slider-sub-heading">We offer the most complete industrial solutions in the country, for the research, design and development of materials.</h5>
       <a href="#" class="btn btn-default">Our Solutions</a>
       <a href="#" class="btn btn-white">Contact Us</a>

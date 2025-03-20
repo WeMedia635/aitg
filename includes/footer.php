@@ -6,7 +6,7 @@
           <div class="col-md-3 col-sm-6">
             <div class="footer-about footer-widget">
               <h5 class="footer-heading">About Industry</h5>
-              <p>For more than 38 years, We offer the most complete industrial solutions in the worldwide. our solutions are used in over 150 countries supporting millions of customers in domain of electricity, construction. metal pro files, gasoline, etc...</p>     
+              <p>At MACPL-AITG, our unmatched expertise in mass production and advanced engineering processes consistently delivers superior, high-quality auto components. We continuously innovate to meet evolving customer demands.</p>     
               <a href="about-us.html" class="plain-btn">About More</a>     
             </div>            
           </div>

@@ -1,5 +1,5 @@
 <?php 
-$to = ''; // Put in your email address here
+$to = 'team@andwemedia.com'; // Put in your email address here
 $subject  = "Get Quote Form"; // The default subject. Will appear by default in all messages. Change this if you want.
 
 // User info (DO NOT EDIT!)
@@ -26,7 +26,7 @@ $msg .= "\r\n\n";
 $mail = @mail($to, $subject, $msg, "From:".$email);  // This command sends the e-mail to the e-mail address contained in the $to variable
 
 if($mail) {
-	header("Location:index.html");	
+	header("Location:index.php");	
 } else {
 	echo 'Message could not be sent!';   //This is the message that will be shown when an error occured: the message was not send
 }

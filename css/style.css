@@ -681,6 +681,7 @@ label span {
 .slider-dtl {
   width: 509px;
   position: absolute;
+  z-index: 1;
   top: 50%;
   transform: translate(0, -50%);
 }
@@ -817,7 +818,7 @@ label span {
   width: 70px;
   height: 100%;
   opacity: 1;
-  background: rgba(34,34,34,0.9);
+  background: rgba(28,77,134,0.9);
 }
 .solution-block:hover .overlay-bg {   
   width: 100%;

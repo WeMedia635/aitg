@@ -26,10 +26,10 @@
           <div class="col-md-3 col-sm-6">
             <div class="footer-news footer-widget">
               <h5 class="footer-heading">Latest News</h5>
-              <ul>
+              <!-- <ul>
                 <li><a href="#">Here’s How Advanced Manufacture Is Transforming The Factory</a> - July 15, 2017</li>
                 <li><a href="#">Here’s How Advanced Manufacture Is Transforming The Factory</a> - July 15, 2017</li>
-              </ul>           
+              </ul>            -->
             </div>
           </div>
           <div class="col-md-3 col-sm-6">
@@ -37,9 +37,9 @@
               <h5 class="footer-heading">Quick Contact</h5>
               <p>If you want to contact us about any issue, our support available to help you 8am-7pm Monday to Saturday.</p>
               <ul class="footer-address">
-                <li><span>Address:</span> 9015 Sunset Boulevard United Kingdom</li>
-                <li><span>Call:</span> <a href="tel:#">+ 215 623 7532</a></li>
-                <li><span>Email:</span> <a href="mailto:#">info@industrial.com</a></li>
+                <li><span>Address:</span> E-63, MIDC Waluj, Aurangabad - 431136, Maharashtra, India.</li>
+                <li><span>Call:</span> <a href="tel:#">Ph: +91 240 6625613/4</a></li>
+                <li><span>Email:</span> <a href="mailto:#">info@macpl.com</a></li>
               </ul>
             </div>
           </div>

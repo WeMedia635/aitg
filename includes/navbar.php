@@ -75,14 +75,14 @@
                     <li><a href="index3.html">Home Style 3</a></li>
                   </ul> -->
                 </li>
-                <li><a href="#">Pages</a>
-                  <ul>
+                <li><a href="about-us.php">About</a>
+                  <!-- <ul>
                     <li><a href="about-us.php">About</a></li>   
                     <li><a href="testimonials.html">Testimonials</a></li> 
                     <li><a href="team.html">Team</a></li>    
                     <li><a href="faq.html">Faq</a></li>   
                     <li><a href="get-quote.html">Get Quote</a></li>                     
-                  </ul>
+                  </ul> -->
                 </li>
                 <li><a href="#">Solutions</a>
                   <ul>

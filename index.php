@@ -6,7 +6,7 @@
   <div class="item home-slider-bg" style="background-image: url('images/bg/slider-1.jpg')">
 
     <div class="slider-dtl top-effect">
-      <h1 class="slider-heading">Building Up 56 <span>Vision,</span> Leading Future</h1>
+      <h1 class="slider-heading">Mass <span>production</span>, <br> with <span>precision</span></h1>
       <h5 class="slider-sub-heading">We offer the most complete industrial solutions in the country, for the research, design and development of materials.</h5>
       <a href="#" class="btn btn-default">Our Solutions</a>
       <a href="#" class="btn btn-white">Contact Us</a>
@@ -41,46 +41,7 @@
           <a href="about-us.html" class="plain-btn">About More</a>
         </div>
       </div>
-      <style>
-        .values-section {
-            max-width: 800px;
-            /* margin: 50px auto; */
-            padding: 0 20px;
-        }
 
-        .values-title {
-            text-align: center;
-            color: #2c3e50;
-        }
-
-        .values-list {
-            list-style: none;
-            padding: 0;
-        }
-
-        .value-item {
-            display: flex;
-            align-items: center;
-            margin-bottom: 20px;
-        }
-
-        .value-icon {
-            font-size: 1.8em;
-            color: #1c4d86;
-            margin-right: 25px;
-            transition: transform 0.3s ease;
-        }
-
-        .value-item:hover .value-icon {
-            transform: scale(1.1);
-        }
-
-        .value-name {
-            font-size: 1.2em;
-            color: #2c3e50;
-            font-weight: 500;
-        }
-    </style>
       <div class="col-md-4 col-sm-6">
         <!-- <div class="about-features-block">
             <div class="row">
@@ -173,7 +134,7 @@
             </div>
           </div>    -->
         <section class="values-section">
-        <h3 class="about-heading">Our Core Values</h3>
+          <h3 class="about-heading">Our Core Values</h3>
           <ul class="values-list">
             <li class="value-item">
               <i class="fa fa-handshake-o value-icon"></i>
@@ -211,95 +172,266 @@
   </div>
 </section>
 <!-- end about  -->
+
+
+
+
+<section class="capabilities-section">
+  <div class="container">
+    <div class="capabilities-content">
+      <i class="fa fa-cogs icon-accent"></i>
+      <h2 class="capabilities-title">Core Capabilities</h2>
+      <p class="capabilities-text">
+        We manufacture <span class="highlight">critical, complex, and technically challenging</span> auto components,
+        which play a major role in <span class="highlight">vehicle safety</span>. During our
+        <span class="highlight">20+ years of experience</span>, we have mastered the processes
+        that make the component durable.
+      </p>
+    </div>
+  </div>
+</section>
+
+
+
+<section class="process-videos-section">
+  <h2 class="section-title">Process Videos</h2>
+  <div class="row" style="display:flex;flex-wrap:wrap;">
+    <!-- Video 1 -->
+    <div class="video-grand-wrapper col-md-3 col-sm-6">
+      <div class="video-card">
+        <div class="video-wrapper">
+          <iframe src="https://www.youtube.com/embed/7Ba8KVW0Pok?si=B6ZClzxiGWNThUFl&controls=0" frameborder="0" allowfullscreen></iframe>
+          <div class="video-overlay"><i class="fa fa-play"></i></div>
+        </div>
+        <h5 class="video-title">Robotic Bar Bending at Marathwada Auto Compo - MACPL</h5>
+        <p class="video-desc">Explore the advanced robotic bar bending process at Marathwada Auto Compo Pvt. Ltd. (MACPL), where cutting-edge automation meets precision engineering.</p>
+      </div>
+    </div>
+
+    <!-- Video 2 -->
+    <div class="video-grand-wrapper col-md-3 col-sm-6">
+      <div class="video-card">
+        <div class="video-wrapper">
+          <iframe src="https://www.youtube.com/embed/vPwjm4bx5XY?si=rJfDjostxFnz9lgg&controls=0" frameborder="0" allowfullscreen></iframe>
+          <div class="video-overlay"><i class="fa fa-play"></i></div>
+        </div>
+        <h5 class="video-title">Plasma Cutting at Marathwada Auto Compo - MACPL</h5>
+        <p class="video-desc">Discover the precision and efficiency of plasma cutting at Marathwada Auto Compo Pvt. Ltd. (MACPL). This video highlights our state-of-the-art plasma cutting technology.</p>
+      </div>
+    </div>
+
+    <!-- Video 3 -->
+    <div class="video-grand-wrapper col-md-3 col-sm-6">
+      <div class="video-card">
+        <div class="video-wrapper">
+          <iframe src="https://www.youtube.com/embed/NaewbxKqvD0?si=rpi0C1RAmlpjiOlC&controls=0" frameborder="0" allowfullscreen></iframe>
+          <div class="video-overlay"><i class="fa fa-play"></i></div>
+        </div>
+        <h5 class="video-title">Heat Treatment at Marathwada Auto Compo - MACPL</h5>
+        <p class="video-desc">Step into the world of heat treatment at Marathwada Auto Compo Pvt. Ltd. (MACPL). This video showcases our advanced heat treatment processes, enhancing the strength, durability, and performance of critical auto components.</p>
+      </div>
+    </div>
+
+    <!-- Video 4 -->
+    <div class="video-grand-wrapper col-md-3 col-sm-6">
+      <div class="video-card">
+        <div class="video-wrapper">
+          <iframe style="cursor:pointer" src="https://www.youtube.com/embed/sTr3GobQtg8?si=lNg2m7tGFywND1V8&controls=0&modestbranding=0&rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+          <div class="video-overlay"><i class="fa fa-play"></i></div>
+        </div>
+        <h5 class="video-title">Aluminium Casting at Marathwada Auto Compo - MACPL</h5>
+        <p class="video-desc">Experience the art of aluminium casting at Marathwada Auto Compo Pvt. Ltd. (MACPL). This video demonstrates our sophisticated casting techniques, transforming molten aluminium into lightweight, high-strength auto components.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
 <!-- solutions  -->
 <section id="solutions" class="solutions-main-block">
+  <h2 class="text-center capabilities-title" style="color: #285487;">Strengths</h2>
   <div class="container">
     <div class="row">
+      <!-- Strength 1 -->
       <div class="col-md-4 col-sm-6">
         <div class="solution-block">
           <div class="solution-img">
-            <img src="images/solutions/sol-1.jpg" class="img-responsive" alt="solutions">
-            <div class="overlay-bg"><a href="solutions-details.html"><i class="ti-signal"></i></a></div>
+            <img src="./images/custom/strengh/AITG/dedivated team.jpg" class="img-responsive" alt="team">
+            <div class="overlay-bg"><a href="#"><i class="fa fa-users"></i></a></div>
           </div>
           <div class="solution-dtl">
-            <a href="solutions-details.html">
-              <h5 class="solution-heading">Agricultural Processing</h5>
-            </a>
-            <p>Area tackled in the most fundamental to parts of medi cal research include cellular and molecular biology.</p>
+            <h5 class="solution-heading">Dedicated Team</h5>
+            <p>A team of dedicated promoters and professionals to handle various functions.</p>
           </div>
         </div>
       </div>
+
+      <!-- Strength 2 -->
       <div class="col-md-4 col-sm-6">
         <div class="solution-block">
           <div class="solution-img">
-            <img src="images/solutions/sol-2.jpg" class="img-responsive" alt="solutions">
-            <div class="overlay-bg"><a href="solutions-details.html"><i class="ti-spray"></i></a></div>
+            <img src="./images/custom/strengh/AITG/Clear Vision 2.jpg" class="img-responsive" alt="vision">
+            <div class="overlay-bg"><a href="#"><i class="fa fa-eye"></i></a></div>
           </div>
           <div class="solution-dtl">
-            <a href="solutions-details.html">
-              <h5 class="solution-heading">Pharmaceutical Research</h5>
-            </a>
-            <p>Area tackled in the most fundamental to parts of medi cal research include cellular and molecular biology.</p>
+            <h5 class="solution-heading">Clear Vision</h5>
+            <p>Enrollment of the team with well-articulated Vision and Value statements.</p>
           </div>
         </div>
       </div>
+
+      <!-- Strength 3 -->
       <div class="col-md-4 col-sm-6">
         <div class="solution-block">
           <div class="solution-img">
-            <img src="images/solutions/sol-3.jpg" class="img-responsive" alt="solutions">
-            <div class="overlay-bg"><a href="solutions-details.html"><i class="ti-plug"></i></a></div>
+            <img src="./images/custom/strengh/AITG/Continuous Training.jpg" class="img-responsive" alt="training">
+            <div class="overlay-bg"><a href="#"><i class="fa fa-graduation-cap"></i></a></div>
           </div>
           <div class="solution-dtl">
-            <a href="solutions-details.html">
-              <h5 class="solution-heading">Power &amp; Energy</h5>
-            </a>
-            <p>Area tackled in the most fundamental to parts of medi cal research include cellular and molecular biology.</p>
+            <h5 class="solution-heading">Continuous Training</h5>
+            <p>Continuous coaching, training, and education by HR for improving overall performance.</p>
           </div>
         </div>
       </div>
+
+      <!-- Strength 4 -->
       <div class="col-md-4 col-sm-6">
         <div class="solution-block">
           <div class="solution-img">
-            <img src="images/solutions/sol-4.jpg" class="img-responsive" alt="solutions">
-            <div class="overlay-bg"><a href="solutions-details.html"><i class=" ti-package"></i></a></div>
+            <img src="./images/custom/strengh/AITG/Best Practices.jpg" class="img-responsive" alt="management">
+            <div class="overlay-bg"><a href="#"><i class="fa fa-cogs"></i></a></div>
           </div>
           <div class="solution-dtl">
-            <a href="solutions-details.html">
-              <h5 class="solution-heading">Material Engineering</h5>
-            </a>
-            <p>Area tackled in the most fundamental to parts of medi cal research include cellular and molecular biology.</p>
+            <h5 class="solution-heading">Best Practices</h5>
+            <p>Quick adaptation of standard and best management practices.</p>
           </div>
         </div>
       </div>
+
+      <!-- Strength 5 -->
       <div class="col-md-4 col-sm-6">
         <div class="solution-block">
           <div class="solution-img">
-            <img src="images/solutions/sol-5.jpg" class="img-responsive" alt="solutions">
-            <div class="overlay-bg"><a href="solutions-details.html"><i class="ti-settings"></i></a></div>
+            <img src="./images/custom/strengh/AITG/Efficient Administration.jpg" class="img-responsive" alt="admin">
+            <div class="overlay-bg"><a href="#"><i class="fa fa-file-text"></i></a></div>
           </div>
           <div class="solution-dtl">
-            <a href="solutions-details.html">
-              <h5 class="solution-heading">Mechanical Engineering</h5>
-            </a>
-            <p>Area tackled in the most fundamental to parts of medi cal research include cellular and molecular biology.</p>
+            <h5 class="solution-heading">Efficient Administration</h5>
+            <p>Efficient administration with a set of Standard Operating Procedures and Company policies.</p>
           </div>
         </div>
       </div>
+
+      <!-- Strength 6 -->
       <div class="col-md-4 col-sm-6">
         <div class="solution-block">
           <div class="solution-img">
-            <img src="images/solutions/sol-6.jpg" class="img-responsive" alt="solutions">
-            <div class="overlay-bg"><a href="solutions-details.html"><i class="ti-paint-bucket"></i></a></div>
+            <img src="./images/custom/strengh/AITG/Team Collaboration.jpg" class="img-responsive" alt="meetings">
+            <div class="overlay-bg"><a href="#"><i class="fa fa-users"></i></a></div>
           </div>
           <div class="solution-dtl">
-            <a href="solutions-details.html">
-              <h5 class="solution-heading">Petroleum and Gas</h5>
-            </a>
-            <p>Area tackled in the most fundamental to parts of medi cal research include cellular and molecular biology.</p>
+            <h5 class="solution-heading">Team Collaboration</h5>
+            <p>Regular review meetings of cross-functional teams for efficient functioning.</p>
+          </div>
+        </div>
+      </div>
+
+
+    </div>
+    <div class="row">
+      <!-- Strength 1 -->
+      <div class="col-md-4 col-sm-6">
+        <div class="solution-block">
+          <div class="solution-img">
+            <img src="./images/custom/strengh/Production-Excellence.jpg" class="img-responsive" alt="team">
+            <div class="overlay-bg"><a href="#"><i class="fa fa-wrench"></i></a></div>
+          </div>
+          <div class="solution-dtl">
+            <h5 class="solution-heading">Production Excellence</h5>
+            <p>The shop floor and production managed by the Total Productive Maintenance (TPM) technique.</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Strength 2 -->
+      <div class="col-md-4 col-sm-6">
+        <div class="solution-block">
+          <div class="solution-img">
+            <img src="./images/custom/strengh/TPM-Optimization.jpg" class="img-responsive" alt="vision">
+            <div class="overlay-bg"><a href="#"><i class="fa fa-check-square"></i></a></div>
+          </div>
+          <div class="solution-dtl">
+            <h5 class="solution-heading">TPM Optimization</h5>
+            <p>Consistent efforts in TPM for improving Process, Quality, Cost, Delivery, Safety, and Moral (PQCDSM) parameters.</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Strength 3 -->
+      <div class="col-md-4 col-sm-6">
+        <div class="solution-block">
+          <div class="solution-img">
+            <img src="./images/custom/strengh/Production-Excellence.jpg" class="img-responsive" alt="training">
+            <div class="overlay-bg"><a href="#"><i class="fa fa-building"></i></a></div>
+          </div>
+          <div class="solution-dtl">
+            <h5 class="solution-heading">Infrastructure Investment</h5>
+            <p>Continuous investment in improving and upgrading infrastructure.</p>
+          </div>
+        </div>
+      </div>
+
+
+
+
+    </div>
+    <div class="row">
+      <!-- Strength 4 -->
+      <div class="col-md-4 col-sm-6">
+        <div class="solution-block">
+          <div class="solution-img">
+            <img src="./images/custom/strengh/SAP-Integration.jpg" class="img-responsive" alt="management">
+            <div class="overlay-bg"><a href="#"><i class="fa fa-database"></i></a> </div>
+          </div>
+          <div class="solution-dtl">
+            <h5 class="solution-heading">SAP Integration</h5>
+            <p>Use of SAP Enterprise Resource Planning system.</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Strength 5 -->
+      <div class="col-md-4 col-sm-6">
+        <div class="solution-block">
+          <div class="solution-img">
+            <img src="./images/custom/strengh/tool-room.png" class="img-responsive" alt="admin">
+            <div class="overlay-bg"><a href="#"><i class="fa fa-wrench"></i></a></div>
+          </div>
+          <div class="solution-dtl">
+            <h5 class="solution-heading">Advanced Tool Room</h5>
+            <p>State-of-the-art tool room facility for rapid development of manufacturing lines for various components.</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Strength 6 -->
+      <div class="col-md-4 col-sm-6">
+        <div class="solution-block">
+          <div class="solution-img">
+            <img src="./images/custom/strengh/Quality-Inspection.png" class="img-responsive" alt="meetings">
+            <div class="overlay-bg"><a href="#"><i class="fa fa-search"></i></a></div>
+          </div>
+          <div class="solution-dtl">
+            <h5 class="solution-heading">Quality Inspection</h5>
+            <p>Well-set standards and room equipment for timely inspection of components and fixtures.</p>
           </div>
         </div>
       </div>
     </div>
+
+
+
   </div>
 </section>
 <!-- end solutions  -->
@@ -377,7 +509,7 @@
 </section>
 <!-- end featured product  -->
 <!-- quote -->
-<section id="quote" class="quote-main-block" style="background-image: url('images/bg/quote-bg.jpg')">
+<section id="quote" class="quote-main-block" style="background-image: url('images/bg/quote-bg.png')">
   <div class="quote-text text-center">
     <p>“Engineering excellence, driven by innovation. Precision in every part, commitment in every process.”</p>
   </div>
@@ -385,7 +517,7 @@
 <!-- end quote  -->
 
 <!-- testimonials  -->
-<section id="testimonials" class="testimonials-main-block" style="background-image: url('images/bg/testimonial-bg.jpg')">
+<!-- <section id="testimonials" class="testimonials-main-block" style="background-image: url('images/bg/testimonial-bg.jpg')">
   <div class="container">
     <div class="section">
       <h3 class="section-heading">Testimonials</h3>
@@ -448,7 +580,7 @@
       </div>
     </div>
   </div>
-</section>
+</section> -->
 <!-- end testimonials  -->
 <!-- counter  -->
 <section id="counter" class="counter-main-block">
@@ -486,7 +618,7 @@
 </section>
 <!-- end counter  -->
 <!-- team  -->
-<section id="team" class="team-main-block">
+<!-- <section id="team" class="team-main-block">
   <div class="container">
     <div class="row">
       <div class="col-sm-3">
@@ -588,7 +720,7 @@
       </div>
     </div>
   </div>
-</section>
+</section> -->
 <!-- end team  -->
 <!--  clients -->
 <section id="clients" class="clients-main-block">
@@ -598,28 +730,28 @@
     </div>
     <div id="client-slider" class="client-slider">
       <div class="item client-img">
-        <img src="images/client-1.jpg" class="img-responsive" alt="client-1">
+        <img src="https://macpl-aitg.co/images/clients/11client.jpg" class="img-responsive" alt="client-1">
       </div>
       <div class="item client-img">
-        <img src="images/client-2.jpg" class="img-responsive" alt="client-2">
+        <img src="https://macpl-aitg.co/images/clients/22client.jpg" class="img-responsive" alt="client-2">
       </div>
       <div class="item client-img">
-        <img src="images/client-3.jpg" class="img-responsive" alt="client-3">
+        <img src="https://macpl-aitg.co/images/clients/33client.jpg" class="img-responsive" alt="client-3">
       </div>
       <div class="item client-img">
-        <img src="images/client-4.jpg" class="img-responsive" alt="client-4">
+        <img src="https://macpl-aitg.co/images/clients/44client.jpg" class="img-responsive" alt="client-4">
       </div>
       <div class="item client-img">
-        <img src="images/client-5.jpg" class="img-responsive" alt="client-5">
+        <img src="https://macpl-aitg.co/images/clients/55client.jpg" class="img-responsive" alt="client-5">
       </div>
       <div class="item client-img">
-        <img src="images/client-6.jpg" class="img-responsive" alt="client-6">
+        <img src="https://macpl-aitg.co/images/clients/66client.jpg" class="img-responsive" alt="client-6">
       </div>
       <div class="item client-img">
-        <img src="images/client-6.jpg" class="img-responsive" alt="client-7">
+        <img src="https://macpl-aitg.co/images/clients/77client.jpg" class="img-responsive" alt="client-7">
       </div>
       <div class="item client-img">
-        <img src="images/client-6.jpg" class="img-responsive" alt="client-8">
+        <img src="https://macpl-aitg.co/images/clients/88client.jpg" class="img-responsive" alt="client-8">
       </div>
     </div>
   </div>
